@@ -884,3 +884,11 @@ img {
     display: flex;
   }
 }
+
+.links a {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: blue;
+}
